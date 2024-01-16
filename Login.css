@@ -1,0 +1,44 @@
+.background{
+    background-image: url(tech.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head{
+    padding-top: 20px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+.space-h1-text{
+    padding-top: 50px;
+}
+
+.text{
+    color: white;
+    padding-left: 600px;
+}
+
+.input{
+    width: 300px;
+    margin-left: 600px;
+}
+
+.login-btn{
+    margin-left: 600px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 12px;
+    width: 300px;
+    height: 50px;
+    font-weight: 700;
+}
+
+.link-view{
+    font-style: normal;
+    text-decoration: none;
+    color: white;
+}
