@@ -1,5 +1,5 @@
 .background{
-    background-image: url(tech.jpg);
+    background-image: url(../img/tech.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -15,12 +15,19 @@
     backdrop-filter: blur(10px);
     margin-top: 70px;
     margin-left: 450px;
-    width: 650px;
+    width: 620px;
 }
 
 .text{
     color: white;
     padding-left: 150px;
+}
+
+.heading{
+    color: white;
+    padding-left: 250px;
+    font-size:x-large;
+    font-weight: 500;
 }
 
 .input{
